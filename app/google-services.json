@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358573710680",
+    "project_id": "to-do-hub-d885b",
+    "storage_bucket": "to-do-hub-d885b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358573710680:android:e39193720234e3cf30592d",
+        "android_client_info": {
+          "package_name": "com.shahnwaz.todohub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358573710680-8oso1j2ib5an4553hcja79em54hra859.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn0A0Zk7QHxVkgIOZp2hil4onNZI7EkDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358573710680-8oso1j2ib5an4553hcja79em54hra859.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

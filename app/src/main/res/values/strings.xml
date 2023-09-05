@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do Hub</string>
+    <string name="my_first_task">My First Task</string>
+    <string name="enter_your_task">Enter your task</string>
+    <string name="delete">delete</string>
+    <string name="tasks">Tasks</string>
+    <string name="close">Close</string>
+    <string name="date_will_appear_here">date will appear here</string>
+    <string name="select_date">Select Date</string>
+</resources>
